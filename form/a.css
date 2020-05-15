@@ -1,0 +1,14 @@
+body{
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover
+}
+table {
+  margin: auto auto 200px;
+}
+span{
+  color: red;
+}
+.Applying-for{
+  display: inline-block;
+}
